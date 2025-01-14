@@ -3,4 +3,4 @@
 
 This application is completely satire.
 
-Please do not use for commercial or person use.
+Not intended for commercial or personal use.
